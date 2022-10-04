@@ -1,0 +1,3 @@
+# Mage-OS Demo Package
+
+It does nothing, intentionally...
